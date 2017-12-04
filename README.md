@@ -1,5 +1,6 @@
 # creer-serveur-emulateur-NosAfter
 
+10€ Server + Des monstres + Map anciens nosville .
 
 20€ Server + Parchemins SP Poule Pirate Pyjama fonctionnant avec des shops sp ect ... .
 
@@ -8,4 +9,4 @@ mes bon pg .
 
 #NosAfter
 
-MP Negastra ! Pour en savoir + .
+MP Skrillirada ! Pour en savoir + .
